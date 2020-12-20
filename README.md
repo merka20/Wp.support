@@ -1,13 +1,10 @@
 # Wp-support
 
-
-README.txt
-
 ### Plugin Name
 
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://example.com/
-Tags: support,comments, tickets
+Contributors: merka20, Oscar Domingo
+Donate link: https://merka20.com/
+Tags: support,comments, tickets 
 Requires at least: 3.0.1
 Tested up to: 5.6
 Stable tag: 4.3
@@ -36,9 +33,9 @@ Free launch of the WordPress Support Plugin :
 
 ### Translations :
 
-    English  
-    Spanish 
-    Basque 
+   * English  
+   * Spanish 
+   * Basque 
 
 ### Installation
 
