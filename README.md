@@ -45,7 +45,7 @@ e.g.
 
 1. Install the plugin directly from the Extensions menu installer or by uploading the plugin files to the server.
 1. Activate the plugin.
-1. Go to plugin administrator page (MENU : Support)
+1. Go to plugin administrator page (**MENU : Support**)
 
 ###  Frequently Asked Questions
 
